@@ -1,0 +1,1 @@
+CHANGED,/Users/locle/Documents/Developer/Courera/AndroidAppDevelopment/DrawingASCIIArt/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/mooc/vandy/java4android/diamonds/logic/Logic.class

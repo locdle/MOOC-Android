@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="560dpi"
+    format="7"
+    timestamp="298144222650804"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="82" />
+    <task
+        name="instant-run-dex"
+        duration="329" />
+    <task
+        name="instant-run-transform"
+        duration="4" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="/Users/locle/Documents/Developer/Courera/AndroidAppDevelopment/DrawingASCIIArt/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="296326068121209" >
+        <artifact
+            location="/Users/locle/Documents/Developer/Courera/AndroidAppDevelopment/DrawingASCIIArt/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="298037904861662" >
+        <artifact
+            location="/Users/locle/Documents/Developer/Courera/AndroidAppDevelopment/DrawingASCIIArt/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="298144222650804"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/locle/Documents/Developer/Courera/AndroidAppDevelopment/DrawingASCIIArt/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
